@@ -1,0 +1,4 @@
+## 🚀 Hintergrund des Projekts
+Das **Coderr-Projekt** ist eine Übung, bei der ich das Backend für eine Freelancer-Plattform mit Django und Django REST Framework (DRF) entwickelt habe. Als Grundlage für das Backend diente mir das bestehende Frontend, das ich als Vorlage verwendet habe, um eine vollständige und funktionale Plattform zu schaffen.
+
+Ziel dieses Projekts war es, praktische Erfahrungen in der Backend-Entwicklung zu sammeln und zu vertiefen. Dabei habe ich nicht nur das Backend für die Verwaltung von Benutzern, Projekten und Kontakten entwickelt, sondern auch das Backend mit dem Frontend verknüpft, sodass beide Systeme miteinander kommunizieren und zusammenarbeiten.
